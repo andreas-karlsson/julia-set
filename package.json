@@ -1,0 +1,11 @@
+{
+  "name": "webgl",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "budo": "^11.6.2",
+    "mouse-change": "^1.4.0",
+    "regl": "^1.3.11"
+  }
+}
